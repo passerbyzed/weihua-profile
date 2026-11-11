@@ -1,0 +1,16 @@
+[
+  { "machine_id": "LD5-2024-0316", "stage": "来料", "item_code": "steel_flange", "item_name": "主梁上翼缘板厚", "standard": "≥25 mm", "measured": "25.1 mm", "result": "合格", "inspector": "王检", "date": "2024-03-02", "batch": "GB-2402-07" },
+  { "machine_id": "LD5-2024-0316", "stage": "过程", "item_code": "coaxial", "item_name": "卷筒轴承座同轴度", "standard": "≤0.1 mm", "measured": "0.08 mm", "result": "合格", "inspector": "王检", "date": "2024-03-08", "batch": "ZZ-2403-11" },
+  { "machine_id": "LD5-2024-0316", "stage": "出厂", "item_code": "paint_dft", "item_name": "面漆干膜厚度", "standard": "≥240 μm", "measured": "245 μm", "result": "合格", "inspector": "李检", "date": "2024-03-14", "batch": "TL-2403-05" },
+  { "machine_id": "LD5-2024-0316", "stage": "出厂", "item_code": "load_test", "item_name": "空载试验", "standard": "动作准确、无异常", "measured": "合格", "result": "合格", "inspector": "李检", "date": "2024-03-15", "batch": "" },
+  { "machine_id": "LD5-2024-0316", "stage": "出厂", "item_code": "paint_dft", "item_name": "面漆干膜厚度（补漆后复检）", "standard": "≥240 μm", "measured": "210 μm", "result": "不合格", "inspector": "李检", "date": "2026-10-19", "batch": "TL-2403-05" },
+  { "machine_id": "CD1-2024-0087", "stage": "出厂", "item_code": "load_test", "item_name": "空载试验", "standard": "动作准确、无异常", "measured": "合格", "result": "合格", "inspector": "李检", "date": "2024-04-01", "batch": "" },
+  { "machine_id": "MH-2023-1102", "stage": "来料", "item_code": "steel_ut", "item_name": "钢板超声检测", "standard": "Ⅱ级", "measured": "Ⅱ级", "result": "合格", "inspector": "王检", "date": "2023-10-12", "batch": "GB-2310-03" },
+  { "machine_id": "MH-2023-1102", "stage": "过程", "item_code": "weld_ut", "item_name": "主梁对接焊缝 UT", "standard": "Ⅰ级", "measured": "Ⅰ级", "result": "合格", "inspector": "王检", "date": "2023-10-26", "batch": "HJ-2310-06" },
+  { "machine_id": "MH-2023-1102", "stage": "出厂", "item_code": "load_test", "item_name": "空载试验", "standard": "动作准确、无异常", "measured": "合格", "result": "合格", "inspector": "李检", "date": "2023-10-30", "batch": "" },
+  { "machine_id": "KX-2022-0508", "stage": "出厂", "item_code": "load_test", "item_name": "空载试验", "standard": "动作准确、无异常", "measured": "合格", "result": "合格", "inspector": "李检", "date": "2022-05-07", "batch": "" },
+  { "machine_id": "2001360969", "stage": "来料", "item_code": "steel_flange", "item_name": "主梁上翼缘板厚", "standard": "≥24 mm", "measured": "22.8 mm", "result": "不合格", "inspector": "王检", "date": "2026-03-09", "batch": "GB-2305-22" },
+  { "machine_id": "2001360969", "stage": "过程", "item_code": "coaxial", "item_name": "卷筒轴承座同轴度", "standard": "≤0.1 mm", "measured": "0.09 mm", "result": "合格", "inspector": "王检", "date": "2023-05-30", "batch": "ZZ-2305-04" },
+  { "machine_id": "2001360969", "stage": "出厂", "item_code": "paint_dft", "item_name": "面漆干膜厚度", "standard": "≥200 μm", "measured": "205 μm", "result": "合格", "inspector": "李检", "date": "2023-06-08", "batch": "TL-2305-08" },
+  { "machine_id": "2001360969", "stage": "出厂", "item_code": "load_test", "item_name": "空载试验", "standard": "动作准确、无异常", "measured": "合格", "result": "合格", "inspector": "李检", "date": "2023-06-09", "batch": "" }
+]

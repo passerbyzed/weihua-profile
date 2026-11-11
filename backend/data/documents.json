@@ -1,0 +1,290 @@
+[
+  {
+    "id": "DOC-TA-LD5-2024-0316-01",
+    "type": "技术协议",
+    "type_code": "TA",
+    "title": "LD5-2024-0316 电动单梁起重机技术协议",
+    "doc_no": "JSXY-2024-0316",
+    "version": "v1.2",
+    "machine_id": "LD5-2024-0316",
+    "contract_no": "HT-2024-0316",
+    "effective_date": "2024-02-20",
+    "status": "生效",
+    "pages": 9,
+    "file_name": "LD5-2024-0316 技术协议 v1.2.pdf",
+    "summary": "含整机参数、钢板材质与板厚、配套件、电气、涂装、检验等条款",
+    "clauses": [
+      {
+        "id": "CL-TA-3.1",
+        "clause_no": "3.1",
+        "section": "3 整机主要技术参数",
+        "page": 3,
+        "text": "额定起重量 5 t，跨度 10.5 m，起升高度 9 m，工作级别 A5。",
+        "type": "parameter",
+        "components": ["整机"],
+        "values": {
+          "capacity": { "value": 5, "unit": "t", "text": "额定起重量 5 t" },
+          "span": { "value": 10.5, "unit": "m", "text": "跨度 10.5 m" }
+        }
+      },
+      {
+        "id": "CL-TA-4.1",
+        "clause_no": "4.1",
+        "section": "4 主要钢结构件材质与板厚 › 4.1 材质与板厚明细",
+        "page": 4,
+        "text": "主梁上翼缘板采用 Q355B，板厚 25 mm；厚度负偏差不大于 0.25 mm；厚度不小于 20 mm 的钢板按 GB/T 2970 进行超声检测，质量等级不低于Ⅰ级。",
+        "type": "material",
+        "components": ["主梁"],
+        "values": {
+          "steel_flange": { "value": 25, "unit": "mm", "text": "主梁上翼缘板厚 25 mm" },
+          "steel_deviation": { "value": 0.25, "unit": "mm", "text": "厚度负偏差不大于 0.25 mm" },
+          "steel_ut": { "value": "Ⅰ级", "text": "超声检测质量等级不低于Ⅰ级" }
+        }
+      },
+      {
+        "id": "CL-TA-5.8",
+        "clause_no": "5 配套件配置表 序号 8",
+        "section": "5 主要配套件配置",
+        "page": 4,
+        "text": "吊钩：锻造 35CrMo，GB/T 10051.1，带闭锁装置，供货时提供开口度检测记录。",
+        "type": "component",
+        "components": ["吊钩组"],
+        "values": {
+          "hook_material": { "value": "锻造 35CrMo", "text": "吊钩锻造 35CrMo" },
+          "hook_lock": { "value": "带闭锁装置", "text": "带闭锁装置" },
+          "hook_doc": { "value": "提供开口度检测记录", "text": "提供开口度检测记录" }
+        }
+      },
+      {
+        "id": "CL-TA-6.4",
+        "clause_no": "6.4",
+        "section": "6 电气与控制系统",
+        "page": 5,
+        "text": "电气柜防护等级 IP65，柜内设加热除湿装置，适应食品车间潮湿环境。",
+        "type": "parameter",
+        "components": ["电控柜"],
+        "values": {
+          "cabinet_ip": { "value": "IP65", "text": "电气柜防护等级 IP65" }
+        }
+      },
+      {
+        "id": "CL-TA-8.1.2",
+        "clause_no": "8.1.2",
+        "section": "8 涂装、包装与运输 › 8.1 表面处理与涂层",
+        "page": 6,
+        "text": "涂层体系及干膜厚度见下表，总干膜厚度不低于 240 μm（本项目室内环境亦按 240 μm 执行）；耐盐雾 720 h 不起泡、不生锈。",
+        "type": "coating",
+        "components": ["涂装层"],
+        "values": {
+          "paint_dft": { "value": 240, "unit": "μm", "text": "总干膜厚度不低于 240 μm" },
+          "paint_salt": { "value": 720, "unit": "h", "text": "耐盐雾 720 h" }
+        }
+      },
+      {
+        "id": "CL-TA-8.1.3",
+        "clause_no": "8.1.3",
+        "section": "8 涂装、包装与运输 › 8.1 表面处理与涂层",
+        "page": 6,
+        "text": "面漆颜色按需方要求（海灰色 RAL7035）；涂层应均匀、无流挂、无起泡、无漏涂，附着力不低于 1 级。",
+        "type": "coating",
+        "components": ["涂装层"],
+        "values": {
+          "paint_color": { "value": "海灰色 RAL7035", "text": "面漆颜色为海灰色 RAL7035" },
+          "paint_prep": { "value": "Sa2.5", "text": "涂装前表面处理 Sa2.5" }
+        }
+      },
+      {
+        "id": "CL-TA-8.1.4",
+        "clause_no": "8.1.4",
+        "section": "8 涂装、包装与运输 › 8.1 表面处理与涂层",
+        "page": 6,
+        "text": "涂装体系按食品车间潮湿、每日冲洗环境设计，底漆采用环氧富锌底漆，中间漆环氧云铁，面漆丙烯酸聚氨酯。",
+        "type": "coating",
+        "components": ["涂装层"],
+        "values": {}
+      },
+      {
+        "id": "CL-TA-9.2",
+        "clause_no": "9.2",
+        "section": "9 试验与验收",
+        "page": 7,
+        "text": "出厂验收按本协议第 4.1 条实测板厚，每台抽查不少于 20 点；涂层厚度按第 8.1.2 条检测。",
+        "type": "inspection",
+        "components": ["主梁", "涂装层"],
+        "values": {}
+      }
+    ]
+  },
+  {
+    "id": "DOC-HT-LD5-2024-0316-01",
+    "type": "采购合同",
+    "type_code": "HT",
+    "title": "电动单梁起重机采购合同（HT-2024-0316）",
+    "doc_no": "HT-2024-0316",
+    "version": "签署版",
+    "machine_id": "LD5-2024-0316",
+    "contract_no": "HT-2024-0316",
+    "effective_date": "2024-02-10",
+    "status": "生效",
+    "pages": 4,
+    "file_name": "HT-2024-0316 采购合同.pdf",
+    "summary": "商务条款：质保、交货期、验收与付款",
+    "clauses": [
+      {
+        "id": "CL-HT-2",
+        "clause_no": "第 2 条",
+        "section": "二、质量保证",
+        "page": 1,
+        "text": "质保期自设备验收合格之日起 36 个月，主要钢结构件 36 个月。质保期内因设计、制造、材料缺陷造成的故障，供方免费维修、更换。",
+        "type": "warranty",
+        "components": [],
+        "values": {
+          "warranty": { "value": 36, "unit": "个月", "text": "质保期 36 个月" }
+        }
+      },
+      {
+        "id": "CL-HT-5",
+        "clause_no": "第 5 条",
+        "section": "五、交货与验收",
+        "page": 2,
+        "text": "交货期 2024-03-30；逾期按合同总额每日 0.5‰ 计罚。验收按技术协议及国家现行标准执行。",
+        "type": "commercial",
+        "components": [],
+        "values": {}
+      }
+    ]
+  },
+  {
+    "id": "DOC-DWG-LD5-2024-0316-01",
+    "type": "总图",
+    "type_code": "DWG",
+    "title": "LD5-2024-0316 总图",
+    "doc_no": "QD-2024-0316-01",
+    "version": "v2",
+    "machine_id": "LD5-2024-0316",
+    "contract_no": "HT-2024-0316",
+    "effective_date": "2024-02-25",
+    "status": "生效",
+    "pages": 1,
+    "file_name": "QD-2024-0316-01 总图 v2.pdf",
+    "summary": "图面标注、技术要求、明细表",
+    "clauses": [
+      {
+        "id": "CL-DWG01-1",
+        "clause_no": "图面标注",
+        "section": "主梁截面标注",
+        "page": 1,
+        "text": "主梁上翼缘 δ25，材质 Q355B；下翼缘 δ20，腹板 δ10。",
+        "type": "drawing",
+        "components": ["主梁"],
+        "values": {
+          "steel_flange": { "value": 25, "unit": "mm", "text": "上翼缘 δ25" }
+        }
+      },
+      {
+        "id": "CL-DWG01-3",
+        "clause_no": "技术要求 第 3 条",
+        "section": "技术要求",
+        "page": 1,
+        "text": "技术要求第 3 条：面漆干膜厚度 200 μm，颜色按需方确认。",
+        "type": "drawing",
+        "components": ["涂装层"],
+        "values": {
+          "paint_dft": { "value": 200, "unit": "μm", "text": "面漆干膜厚度 200 μm" }
+        }
+      },
+      {
+        "id": "CL-DWG01-4",
+        "clause_no": "技术要求 第 4 条",
+        "section": "技术要求",
+        "page": 1,
+        "text": "技术要求第 4 条：吊钩及吊钩组见技术协议第 5 章。",
+        "type": "drawing",
+        "components": ["吊钩组"],
+        "values": {
+          "hook_ref": { "value": "见技术协议第 5 章", "text": "吊钩及吊钩组见技术协议第 5 章" }
+        }
+      },
+      {
+        "id": "CL-DWG01-5",
+        "clause_no": "技术要求 第 5 条",
+        "section": "技术要求",
+        "page": 1,
+        "text": "技术要求第 5 条：涂装前钢材表面处理达 Sa2.5 级。",
+        "type": "drawing",
+        "components": ["涂装层"],
+        "values": {
+          "paint_prep": { "value": "Sa2.5", "text": "表面处理 Sa2.5" }
+        }
+      }
+    ]
+  },
+  {
+    "id": "DOC-DWG-LD5-2024-0316-02",
+    "type": "部件图",
+    "type_code": "DWG",
+    "title": "卷筒装配图",
+    "doc_no": "QD-2024-0316-02",
+    "version": "v1",
+    "machine_id": "LD5-2024-0316",
+    "contract_no": "HT-2024-0316",
+    "effective_date": "2024-02-26",
+    "status": "生效",
+    "pages": 1,
+    "file_name": "QD-2024-0316-02 卷筒装配图.pdf",
+    "summary": "卷筒与轴承座装配精度",
+    "clauses": [
+      {
+        "id": "CL-DWG02-1",
+        "clause_no": "技术要求 第 2 条",
+        "section": "技术要求",
+        "page": 1,
+        "text": "卷筒轴承座与卷筒同轴度不大于 0.1 mm；装配后手动盘车应无卡滞。",
+        "type": "drawing",
+        "components": ["卷筒轴承座"],
+        "values": {
+          "coaxial": { "value": 0.1, "unit": "mm", "text": "同轴度不大于 0.1 mm" }
+        }
+      }
+    ]
+  },
+  {
+    "id": "DOC-ECN-LD5-2024-0316-01",
+    "type": "设计变更单",
+    "type_code": "ECN",
+    "title": "面漆颜色变更单",
+    "doc_no": "ECN-LD5-2024-0316-01",
+    "version": "生效版",
+    "machine_id": "LD5-2024-0316",
+    "contract_no": "HT-2024-0316",
+    "effective_date": "2024-06-10",
+    "status": "生效",
+    "pages": 1,
+    "file_name": "ECN-LD5-2024-0316-01 面漆颜色变更.pdf",
+    "summary": "客户厂区统一色，面漆由海灰改为橘红",
+    "clauses": [
+      {
+        "id": "CL-ECN-1",
+        "clause_no": "变更内容",
+        "section": "一、变更内容",
+        "page": 1,
+        "text": "面漆颜色由海灰色 RAL7035 变更为橘红色 RAL2004，自 2024-06-10 起执行，其余涂装要求不变。",
+        "type": "change",
+        "components": ["涂装层"],
+        "values": {
+          "paint_color": { "value": "橘红色 RAL2004", "text": "面漆颜色变更为橘红色 RAL2004" }
+        }
+      },
+      {
+        "id": "CL-ECN-2",
+        "clause_no": "变更说明",
+        "section": "二、变更说明",
+        "page": 1,
+        "text": "本次变更仅涉及颜色，膜厚、耐盐雾及前处理要求仍按技术协议第 8.1.2 条执行。",
+        "type": "change",
+        "components": ["涂装层"],
+        "values": {}
+      }
+    ]
+  }
+]

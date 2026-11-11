@@ -1,0 +1,8 @@
+{
+  "team_business": { "涂装一班": 5, "装配二班": 6, "焊接一班": 8, "装配一班": 4 },
+  "team_rate": 0.25,
+  "designer_business": { "李工": 6, "王工": 5, "赵工": 4 },
+  "designer_rate": 0.167,
+  "supplier_business": { "洛阳XX钢铁": 5, "洛阳车轮厂": 4 },
+  "supplier_rate": 0.2
+}

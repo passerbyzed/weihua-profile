@@ -1,0 +1,14 @@
+[
+  { "machine_id": "LD5-2024-0316", "component": "卷筒轴承座", "batch": "ZZ-2403-11", "supplier": "自制", "team": "装配二班", "process": "装配", "date": "2024-03-08" },
+  { "machine_id": "LD5-2024-0316", "component": "主梁上翼缘", "batch": "GB-2402-07 / L2402-118", "supplier": "洛阳XX钢铁", "team": "焊接一班", "process": "下料/焊接", "date": "2024-02-28" },
+  { "machine_id": "LD5-2024-0316", "component": "涂装层", "batch": "TL-2403-05", "supplier": "自制", "team": "涂装一班", "process": "前处理/喷涂", "date": "2024-03-12" },
+  { "machine_id": "LD5-2024-0316", "component": "电控柜", "batch": "DK-2402-09", "supplier": "外购", "team": "电气班", "process": "装配/接线", "date": "2024-03-05" },
+  { "machine_id": "CD1-2024-0087", "component": "起升机构", "batch": "CD-2403-02", "supplier": "自制", "team": "装配二班", "process": "装配", "date": "2024-03-28" },
+  { "machine_id": "MH-2023-1102", "component": "主梁上翼缘", "batch": "GB-2310-03", "supplier": "洛阳XX钢铁", "team": "焊接一班", "process": "下料/焊接", "date": "2023-10-10" },
+  { "machine_id": "MH-2023-1102", "component": "车轮", "batch": "LC-2310-18", "supplier": "洛阳车轮厂", "team": "装配一班", "process": "装配", "date": "2023-10-18" },
+  { "machine_id": "MH-2023-1102", "component": "涂装层", "batch": "TL-2310-02", "supplier": "自制", "team": "涂装一班", "process": "前处理/喷涂", "date": "2023-10-25" },
+  { "machine_id": "KX-2022-0508", "component": "立柱", "batch": "LZ-2204-06", "supplier": "自制", "team": "焊接一班", "process": "下料/焊接", "date": "2022-04-18" },
+  { "machine_id": "2001360969", "component": "主梁上翼缘", "batch": "GB-2305-22 / L2305-076", "supplier": "洛阳XX钢铁", "team": "焊接一班", "process": "下料", "date": "2023-05-20" },
+  { "machine_id": "2001360969", "component": "涂装层", "batch": "TL-2305-08", "supplier": "自制", "team": "涂装一班", "process": "前处理/喷涂", "date": "2023-05-28" },
+  { "machine_id": "2001360969", "component": "卷筒轴承座", "batch": "ZZ-2305-04", "supplier": "自制", "team": "装配二班", "process": "装配", "date": "2023-05-30" }
+]

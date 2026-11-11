@@ -1,0 +1,9 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+backend/data/state.json
+backend/.env
+screens/
+.vscode/
+.idea/

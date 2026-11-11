@@ -1,0 +1,79 @@
+{
+  "paint_dft": {
+    "label": "涂层总干膜厚度",
+    "value": 200,
+    "unit": "μm",
+    "compare": "min",
+    "display": "200 μm"
+  },
+  "paint_salt": {
+    "label": "耐盐雾",
+    "value": 500,
+    "unit": "h",
+    "compare": "min",
+    "display": "500 h"
+  },
+  "paint_color": {
+    "label": "面漆颜色",
+    "value": "橘红色 RAL2004",
+    "compare": "text",
+    "display": "橘红色 RAL2004"
+  },
+  "paint_prep": {
+    "label": "表面处理",
+    "value": "Sa2.5",
+    "compare": "text",
+    "display": "Sa2.5"
+  },
+  "hook_material": {
+    "label": "吊钩材质",
+    "value": "20# 锻钢",
+    "compare": "text",
+    "display": "20# 锻钢"
+  },
+  "hook_lock": {
+    "label": "吊钩闭锁装置",
+    "value": "无",
+    "compare": "text",
+    "display": "无闭锁"
+  },
+  "hook_doc": {
+    "label": "吊钩检测记录",
+    "value": "不要求",
+    "compare": "text",
+    "display": "不要求检测记录"
+  },
+  "steel_flange": {
+    "label": "主梁上翼缘板厚",
+    "value": 24,
+    "unit": "mm",
+    "compare": "min",
+    "display": "24 mm"
+  },
+  "steel_deviation": {
+    "label": "板厚负偏差",
+    "value": 0.3,
+    "unit": "mm",
+    "compare": "max",
+    "display": "≤0.3 mm"
+  },
+  "steel_ut": {
+    "label": "钢板超声检测等级",
+    "value": "Ⅱ级",
+    "compare": "text",
+    "display": "Ⅱ级"
+  },
+  "cabinet_ip": {
+    "label": "电控柜防护等级",
+    "value": "IP54",
+    "compare": "text",
+    "display": "IP54"
+  },
+  "warranty": {
+    "label": "质保期",
+    "value": 12,
+    "unit": "个月",
+    "compare": "min",
+    "display": "12 个月"
+  }
+}
